@@ -183,6 +183,14 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libchromatix_oxygen_s5k5e8_qtech_video_full.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_oxygen_s5k5e8_qtech_video_full.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libchromatix_oxygen_s5k5e8_qtech_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_oxygen_s5k5e8_qtech_zsl_preview.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libchromatix_oxygen_s5k5e8_qtech_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_oxygen_s5k5e8_qtech_zsl_video.so \
+    vendor/xiaomi/oxygen/proprietary/vendor/lib/libchromatix_ov12a10_arc_4k_video_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov12a10_arc_4k_video_dw9763.so \
+    vendor/xiaomi/oxygen/proprietary/vendor/lib/libchromatix_ov12a10_arc_default_video_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov12a10_arc_default_video_dw9763.so \
+    vendor/xiaomi/oxygen/proprietary/vendor/lib/libchromatix_ov12a10_arc_hfr_60_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov12a10_arc_hfr_60_dw9763.so \
+    vendor/xiaomi/oxygen/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_default_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_default_video_3a.so \
+    vendor/xiaomi/oxygen/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_hfr_60_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_hfr_60_3a.so \
+    vendor/xiaomi/oxygen/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_hfr_90_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_hfr_90_3a.so \
+    vendor/xiaomi/oxygen/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_hfr_120_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_hfr_120_3a.so \
+    vendor/xiaomi/oxygen/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_zsl_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_zsl_video_3a.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libflash_pmic.so:$(TARGET_COPY_OUT_VENDOR)/lib/libflash_pmic.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libjpegdhw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libjpegdhw.so \
     vendor/xiaomi/oxygen/proprietary/vendor/lib/libjpegdmahw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libjpegdmahw.so \
